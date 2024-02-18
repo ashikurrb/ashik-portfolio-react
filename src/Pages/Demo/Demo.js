@@ -9,7 +9,9 @@ const Demo = () => {
                 <h2>
                     Ashikur Rahman Bhuiyan
                     <br />
-                    <code className='textStyle'> <a className='textStyle' href="https://www.google.com/search?q=%40ashikurrb"> @ashikurrb</a></code>
+                    <code className='textStyle'>
+                        <a className='textStyle' href="https://www.google.com/search?q=%40ashikurrb"> @ashikurrb</a>
+                    </code>
                 </h2>
                 <p>
                     <b>MERN Stack Web Developer</b>
