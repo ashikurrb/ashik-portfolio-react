@@ -6,13 +6,7 @@ const Demo = () => {
         <div>
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
-                <h2>
-                    Ashikur Rahman Bhuiyan
-                    <br />
-                    <code className='textStyle'>
-                        <a className='textStyle' href="https://www.google.com/search?q=%40ashikurrb"> @ashikurrb</a>
-                    </code>
-                </h2>
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&height=100&lines=ASHIKUR+RAHMAN+BHUIYAN;%40ashikurrb" alt="" />
                 <p>
                     <b>MERN Stack Web Developer</b>
                 </p>
